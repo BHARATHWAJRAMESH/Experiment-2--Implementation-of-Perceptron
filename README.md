@@ -130,6 +130,8 @@ Accuracy:
 ![image](https://github.com/BHARATHWAJRAMESH/Experiment-2--Implementation-of-Perceptron/assets/119394248/4c4afe28-a747-4f27-8481-0243833ac404)
 
 
+ 
+
 RESULT:
 
 Thus a perceptron for classification is implemented using python
